@@ -16,8 +16,8 @@ ola a todos, irei para a praia! me ajude a tomar certas decisões?
         <div class="passo-ativo"-id="passo-0">
         <p> tomando decisões pra ir para a praia.
 Três experiências diferentes:</p>
-<button class="btn -proximo"data-proximo="1">Michael</button>
-<button class="btn -proximo"data-proximo="2">Trevor</button>
+<button class="btn -proximo"data-proximo="1">roberta</button>
+<button class="btn -proximo"data-proximo="2">romeu</button>
 
         </div>
 
@@ -25,7 +25,7 @@ Três experiências diferentes:</p>
         <p> tomando decisões pra ir para a praia.
 Três experiências diferentes:</p>
 <button class="btn -proximo"data-proximo="1">Um dia decidi sair para uma floresta e colher alguns cogumelo</button>
-<button class="btn -proximo"data-proximo="2">Trevor</button>
+<button class="btn -proximo"data-proximo="2">romeu</button>
         </div>
 
 
